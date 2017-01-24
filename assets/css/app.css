@@ -8320,6 +8320,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   clip: auto; }
 
 body {
+  background-color: #f8f8f8;
   font-family: 'Noto Sans', sans-serif; }
 
 footer {
@@ -8331,7 +8332,8 @@ h1 {
   margin-top: 3rem;
   font-size: 1rem;
   text-transform: uppercase;
-  font-weight: bold; }
+  font-weight: bold;
+  color: #111111; }
 
 img {
   margin: 1rem 0;
