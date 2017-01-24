@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/mubashariqbal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mubs.me
+  * I am mubashariqbal (https://keybase.io/mubashariqbal) on keybase.
+  * I have a public key with fingerprint C383 F6ED A5FF CD16 7B51  59F0 7395 D5A2 550C C1D7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f36ee95fa8d7df0d745dc40657b620adf87ec8abe60e38c515f499bb9e3453be0a",
+            "fingerprint": "c383f6eda5ffcd167b5159f07395d5a2550cc1d7",
+            "host": "keybase.io",
+            "key_id": "7395d5a2550cc1d7",
+            "kid": "0101f36ee95fa8d7df0d745dc40657b620adf87ec8abe60e38c515f499bb9e3453be0a",
+            "uid": "8e653746ddf66d5f23870783156b6500",
+            "username": "mubashariqbal"
+        },
+        "revoke": {
+            "sig_ids": [
+                "acc7ef81a99597544c4ae94c324b591267ac160605794ea204252249ce7281fe0f"
+            ]
+        },
+        "service": {
+            "hostname": "mubs.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485294347,
+    "expire_in": 157680000,
+    "prev": "7c9bc0df6014876a9420d98dbba893eb8a07c848d556aa7c779ee5248507ee8f",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMJuAnicrVJfiFVFHL63MnUtWCsojFIOlAQXm3PO/D1uESsmaLilCZIutzkzv9k9
+e9d7ruecu7smWxnbGiGsZrZhC+KGLQRFKW0gWqut9LAl9FBhsNhDbVEPqzeNiw/V
+nKXopcfmZWZ+fN/3++b7zfTtNxdaipMPnrjcO368pzhzrlEvbN8/s2yvE8Z6jxPs
+dSqwsEGvhjQrVyLtBA5ykWt8CiCIkVwzbZBmmGiFESUspB6S2nAGissQKAKfK+IS
+g4UIQwE+Jn4ISDolx0TVLkhqSVTNrKzyuW8oaEmMUdqlLLQsYRDzBdFEeoQgpVzN
+LLE7TnOGNRfKFNZEsa3ZS3nB3n/g/2ff9QU5DpT4DFOtDaWaGM/nDDHuu4SGlCCU
+A1NIqnIXWPSuurXaLZNodyh7ncGSk0BfXIE83DTqss5TJ9jhSKUYGO5KIYhgBGOF
+JQisfA+HRLgeZVK5FFFEmMAgPYQ94nlYKGAedw0g43Rabdu2L1IL4nlU/1pI19hT
+yaklcRaruNcWu7OsFuR+sj21HNQPYflvejmMqtqOyBL6IEmjuOoErkWqLMr1XMyJ
+J7CPWcmBgVqUQDnKEYRRjuzK20BfPhAlQoVsSshSGJUCe0gLrsNQcuFDyCViimOu
+CaFSMsWYACCelUcMgBsnf9DuauwE3NqUXVbSRlaVWT0BZ/D81M5bCsWWwq2Lbsq/
+bqFlaes/HxrSJYUjPzc3PfLbr/h+NVAfXb1x8szsjTvmxoYa6fxLsx3fHXh4/bdH
+2+U71869WvypOPVDfXHrUxdMXDm5eWvz9Mvb71lyeOxSpXvlH2/svLzqya4Psqk/
+H1rZdm/j6d9NoefQ25vj4fOvXVn36XsdZy9s2xTdmF07sWHuOro4s+Fq21vP3bej
+c/3F5si7b5rRu66v29j+yYojtz1++McHxpd+33Pl/W0jjaNfDZVnninhL6aDuUWX
+7ux8dEXrwOLhfZMHX3wFjq2dWB7Mp89/NvINb9/y+rH+a1Bs+2h6or5//sBwf3Oo
+Y+zg1uEn4PPWQ18ub6z+ePyXUx0fHl+1ZTzY92xzYNkLpx8bvHv0xNf1q/gvoXFg
+Mg==
+=8ZvQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mubashariqbal
+
+==================================================================
